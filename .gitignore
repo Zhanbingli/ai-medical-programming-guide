@@ -1,0 +1,26 @@
+# GitBook
+_book/
+node_modules/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Temporary files
+*.tmp
+*.bak

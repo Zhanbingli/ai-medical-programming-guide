@@ -1,0 +1,24 @@
+{
+  "name": "ai-medical-programming-guide",
+  "version": "1.0.0",
+  "description": "AI时代医学工作者编程实战指南",
+  "main": "index.js",
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build",
+    "init": "honkit init",
+    "pdf": "honkit pdf . ./book.pdf"
+  },
+  "keywords": [
+    "medical",
+    "programming",
+    "AI",
+    "python",
+    "教程"
+  ],
+  "author": "李占兵",
+  "license": "CC-BY-NC-SA-4.0",
+  "devDependencies": {
+    "honkit": "^6.1.4"
+  }
+}
