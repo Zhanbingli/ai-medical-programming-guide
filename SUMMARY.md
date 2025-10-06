@@ -99,47 +99,47 @@
 * [9.1 场景分析：文献管理的痛点](part3/chapter9/9.1-pain-points.md)
 * [9.2 批量下载PubMed文献信息](part3/chapter9/9.2-pubmed-scraping.md)
 * [9.3 提取关键信息到Excel](part3/chapter9/9.3-extract-info.md)
-* [9.4 文献去重与分类](part3/chapter9/9.4-dedup-classify.md)
-* [9.5 生成参考文献格式](part3/chapter9/9.5-citation-format.md)
+* [9.4 文献去重与分类](part3/chapter9/9.4-deduplication.md)
+* [9.5 生成参考文献格式](part3/chapter9/9.5-citations.md)
 * [9.6 AI总结文献要点](part3/chapter9/9.6-ai-summary.md)
 * [9.7 完整工具：文献管理助手](part3/chapter9/9.7-complete-tool.md)
 
 ### 第10章 临床数据处理
-* [10.1 场景：住院患者数据分析](part3/chapter10/10.1-scenario.md)
-* [10.2 数据导入与验证](part3/chapter10/10.2-import-validate.md)
-* [10.3 数据清洗：处理缺失值和异常值](part3/chapter10/10.3-data-cleaning.md)
+* [10.1 场景：住院患者数据分析](part3/chapter10/10.1-overview.md)
+* [10.2 数据清洗：处理缺失值和异常值](part3/chapter10/10.2-data-cleaning.md)
+* [10.3 数据验证](part3/chapter10/10.3-data-validation.md)
 * [10.4 统计分析：描述性统计](part3/chapter10/10.4-descriptive-stats.md)
-* [10.5 数据可视化：生成报告图表](part3/chapter10/10.5-visualization.md)
-* [10.6 自动生成分析报告](part3/chapter10/10.6-auto-report.md)
-* [10.7 完整工具：临床数据分析器](part3/chapter10/10.7-complete-tool.md)
+* [10.5 假设检验](part3/chapter10/10.5-hypothesis-testing.md)
+* [10.6 数据可视化：生成报告图表](part3/chapter10/10.6-visualization.md)
+* [10.7 完整案例：临床数据分析器](part3/chapter10/10.7-complete-case.md)
 
 ### 第11章 病例管理系统
-* [11.1 需求设计：随访管理工具](part3/chapter11/11.1-requirement.md)
-* [11.2 数据结构设计](part3/chapter11/11.2-data-structure.md)
-* [11.3 用Streamlit快速构建界面](part3/chapter11/11.3-streamlit.md)
-* [11.4 患者信息录入与编辑](part3/chapter11/11.4-patient-input.md)
+* [11.1 需求设计：随访管理工具](part3/chapter11/11.1-overview.md)
+* [11.2 数据库设计](part3/chapter11/11.2-database-design.md)
+* [11.3 数据录入界面](part3/chapter11/11.3-data-entry.md)
+* [11.4 数据查询与展示](part3/chapter11/11.4-query-display.md)
 * [11.5 随访提醒功能](part3/chapter11/11.5-followup-reminder.md)
-* [11.6 数据导出与备份](part3/chapter11/11.6-export-backup.md)
-* [11.7 部署到本地/云端](part3/chapter11/11.7-deployment.md)
+* [11.6 数据导出与统计](part3/chapter11/11.6-export-stats.md)
+* [11.7 完整系统实现](part3/chapter11/11.7-complete-system.md)
 
 ### 第12章 医学图像处理
-* [12.1 DICOM文件基础](part3/chapter12/12.1-dicom-basics.md)
-* [12.2 读取与显示医学影像](part3/chapter12/12.2-read-display.md)
-* [12.3 批量格式转换（DICOM转PNG）](part3/chapter12/12.3-batch-convert.md)
-* [12.4 图像预处理：裁剪、调整](part3/chapter12/12.4-preprocessing.md)
-* [12.5 简单图像分析（ROI测量）](part3/chapter12/12.5-roi-analysis.md)
-* [12.6 AI辅助：调用图像识别API](part3/chapter12/12.6-ai-recognition.md)
+* [12.1 场景：医学影像批量处理](part3/chapter12/12.1-overview.md)
+* [12.2 DICOM文件读取](part3/chapter12/12.2-dicom-reading.md)
+* [12.3 图像预处理](part3/chapter12/12.3-preprocessing.md)
+* [12.4 批量格式转换](part3/chapter12/12.4-batch-conversion.md)
+* [12.5 图像分割与测量](part3/chapter12/12.5-segmentation.md)
+* [12.6 完整案例：影像处理工具](part3/chapter12/12.6-complete-case.md)
 
 ### 第13章 科研数据可视化
-* [13.1 高质量学术图表要求](part3/chapter13/13.1-academic-standards.md)
-* [13.2 常见统计图绘制](part3/chapter13/13.2-common-plots.md)
+* [13.1 场景：论文级图表制作](part3/chapter13/13.1-overview.md)
+* [13.2 Matplotlib高级技巧](part3/chapter13/13.2-matplotlib.md)
   * 箱线图、小提琴图
   * 生存曲线（Kaplan-Meier）
   * ROC曲线
   * 森林图
-* [13.3 Seaborn进阶可视化](part3/chapter13/13.3-seaborn.md)
-* [13.4 交互式图表：Plotly](part3/chapter13/13.4-plotly.md)
-* [13.5 AI生成图表：用自然语言描述需求](part3/chapter13/13.5-ai-plotting.md)
+* [13.3 Seaborn统计可视化](part3/chapter13/13.3-seaborn.md)
+* [13.4 论文级图表标准](part3/chapter13/13.4-publication-quality.md)
+* [13.5 交互式可视化](part3/chapter13/13.5-interactive.md)
 * [13.6 完整案例：临床试验数据可视化](part3/chapter13/13.6-complete-case.md)
 
 ---

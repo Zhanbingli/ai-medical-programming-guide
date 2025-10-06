@@ -10,14 +10,14 @@
 
 **方式一: GitHub Issues (推荐)**
 ```
-1. 访问: https://github.com/[your-repo]/medical-ai-programming/issues
+1. 访问: https://github.com/lizhanbing/ai-medical-programming-guide/issues
 2. 点击 "New Issue"
 3. 选择 "错误报告" 模板
 4. 详细描述问题(最好附上截图或代码)
 ```
 
 **方式二: 邮件反馈**
-- 发送至: [your.email@example.com]
+- 发送至: zhanbing2025@gmail.com]
 - 主题格式: 【书籍反馈】章节X.X - 问题简述
 - 请附上: 具体章节、问题描述、你的建议
 
@@ -32,7 +32,7 @@
 
 **反馈渠道:**
 - GitHub Issues → "功能建议" 模板
-- 邮件至: [your.email@example.com]
+- 邮件至: zhanbing2025@gmail.com
 - 微信公众号留言
 
 ### 想分享成功案例?
@@ -144,17 +144,9 @@ docs: 完善第8章调试技巧说明
 和其他医生程序员一起学习成长:
 
 **微信群:**
-1. 添加管理员微信: [WeChat ID]
+1. 添加管理员微信: lzb15912721627
 2. 备注: "医学AI编程读者"
 3. 等待邀请入群
-
-**Discord服务器:**
-- 链接: [Discord invite link]
-- 频道: #问题求助 #经验分享 #项目展示
-
-**QQ群:**
-- 群号: [QQ group number]
-- 验证信息: "AI编程"
 
 ### 在线讨论区
 
@@ -164,7 +156,7 @@ GitHub Discussions板块:
 - 📢 公告通知
 - 🎉 成果展示
 
-访问: https://github.com/[your-repo]/medical-ai-programming/discussions
+访问: https://github.com/lizhanbing/ai-medical-programming-guide/discussions
 
 ## 🎁 贡献者福利
 
@@ -190,18 +182,6 @@ GitHub Discussions板块:
 - 👥 贡献者: [动态更新]
 
 查看详细统计: [GitHub Insights链接]
-
-## 🙏 致谢贡献者
-
-特别感谢以下贡献者(按贡献时间排序):
-
-- **[@contributor1]** - 修复第10章数据清洗bug,优化代码注释
-- **[@contributor2]** - 添加第12章医学影像批量处理案例
-- **[@contributor3]** - 完善第6章prompt工程模板
-- **[@contributor4]** - 翻译部分内容为英文版
-- **[更多...]**
-
-查看完整贡献者列表: [Contributors页面]
 
 ## 📜 开源协议
 
@@ -235,18 +215,6 @@ GitHub Discussions板块:
 - 推动医学与AI技术深度融合
 - 开源更多医学数据分析工具
 
-## 📞 联系方式总结
-
-| 方式 | 链接/地址 | 用途 |
-|------|----------|------|
-| GitHub Issues | [链接] | 报告bug、提建议 |
-| GitHub Discussions | [链接] | 技术讨论、问题求助 |
-| 邮箱 | [email] | 正式反馈、合作咨询 |
-| 微信公众号 | [公众号名] | 获取更新、文章分享 |
-| 微信群 | [管理员微信] | 读者交流 |
-| Twitter/X | [@handle] | 快速互动 |
-
----
 
 **你的每一个反馈,都让这本书变得更好!**
 
@@ -254,5 +222,5 @@ GitHub Discussions板块:
 
 ---
 
-最后更新: 2024年12月
-维护者: [作者姓名]
+最后更新: 2025年10月
+维护者: lizhanbing
